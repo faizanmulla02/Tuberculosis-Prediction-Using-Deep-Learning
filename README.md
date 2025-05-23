@@ -33,21 +33,25 @@ Scikit-learn – for machine learning models and tools
 ## 📦 How to Use
 ## 📥 Clone the Repository
 
-bash code:
+```bash
 git clone https://github.com/your-username/training-project.git
 cd training-project
-
+```
 ## 💻 Run the Notebook
 1. Make sure you have Python and Jupyter Notebook installed.
 
 2. Install required packages using pip (if necessary):
-bash code:
-pip install numpy pandas matplotlib seaborn scikit-learn
-
+```bash
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+```
 3. Launch the notebook:
-bash code:
+```bash
 jupyter notebook training.ipynb
-
+```
 ## 🧪 Example Use Cases
 Understanding a basic ML model workflow
 
